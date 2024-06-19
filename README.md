@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishesharya&label=Profile%20views&color=0e75b6&style=flat" alt="vishesharya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubritik17&label=Profile%20views&color=0e75b6&style=flat" alt="githubritik17" /> </p>
 
 
-<h1 align="center">Hi 👋, I'm Vishesh Arya</h1>
+<h1 align="center">Hi 👋, I'm Ritik Kumar</h1>
 <h3 align="center">A passionate Full-Stack Developer</h3>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,9 +28,9 @@
 
 
 # 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=vishesharya&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishesharya&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/username=vishesharya&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=githubritik17&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=githubritik17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/username=githubritik17&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 
 ---
